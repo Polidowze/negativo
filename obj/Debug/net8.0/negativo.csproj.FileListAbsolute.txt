@@ -1,0 +1,15 @@
+C:\Users\user\Documents\negativo\negativo\obj\Debug\net8.0\negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\negativo\negativo\obj\Debug\net8.0\negativo.AssemblyInfoInputs.cache
+C:\Users\user\Documents\negativo\negativo\obj\Debug\net8.0\negativo.AssemblyInfo.cs
+C:\Users\user\Documents\negativo\negativo\obj\Debug\net8.0\negativo.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\negativo\negativo\obj\Debug\net8.0\negativo.sourcelink.json
+C:\Users\user\Documents\negativo\negativo\bin\Debug\net8.0\negativo.exe
+C:\Users\user\Documents\negativo\negativo\bin\Debug\net8.0\negativo.deps.json
+C:\Users\user\Documents\negativo\negativo\bin\Debug\net8.0\negativo.runtimeconfig.json
+C:\Users\user\Documents\negativo\negativo\bin\Debug\net8.0\negativo.dll
+C:\Users\user\Documents\negativo\negativo\bin\Debug\net8.0\negativo.pdb
+C:\Users\user\Documents\negativo\negativo\obj\Debug\net8.0\negativo.dll
+C:\Users\user\Documents\negativo\negativo\obj\Debug\net8.0\refint\negativo.dll
+C:\Users\user\Documents\negativo\negativo\obj\Debug\net8.0\negativo.pdb
+C:\Users\user\Documents\negativo\negativo\obj\Debug\net8.0\negativo.genruntimeconfig.cache
+C:\Users\user\Documents\negativo\negativo\obj\Debug\net8.0\ref\negativo.dll
